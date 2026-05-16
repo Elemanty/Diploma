@@ -1,0 +1,6 @@
+mirna_idx,mirna_seq,bind_label,n_samples,n_valid,pct_valid,pct_exact_in_dataset,pct_unique_valid,novelty_pct,mean_nearest_tanimoto,median_nearest_tanimoto,temperature,top_k,top_p,ckpt_path
+0,AGACGAACGGAUUGGUUACACA,1,30,29,96.66666666666667,100.0,20.689655172413794,0.0,1.0,1.0,0.8,50,0.9,C:\Users\User\Desktop\ITMO\DIPLOMA\weights\Weight_rna_only1.pt
+1,AGCAAAUUAGCCGCAGGCUGAC,1,30,30,100.0,100.0,20.0,0.0,1.0,1.0,0.8,50,0.9,C:\Users\User\Desktop\ITMO\DIPLOMA\weights\Weight_rna_only1.pt
+2,CCCGAUACGUGGCACCGAUAGA,1,30,30,100.0,100.0,23.333333333333332,0.0,1.0,1.0,0.8,50,0.9,C:\Users\User\Desktop\ITMO\DIPLOMA\weights\Weight_rna_only1.pt
+3,GUCAGCUCUUCCCAAUCUAGGG,1,30,29,96.66666666666667,100.0,24.137931034482758,0.0,1.0,1.0,0.8,50,0.9,C:\Users\User\Desktop\ITMO\DIPLOMA\weights\Weight_rna_only1.pt
+4,CCAAAGAACACACAGGCAGCGA,1,30,30,100.0,100.0,26.666666666666668,0.0,1.0,1.0,0.8,50,0.9,C:\Users\User\Desktop\ITMO\DIPLOMA\weights\Weight_rna_only1.pt
